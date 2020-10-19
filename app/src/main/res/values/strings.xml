@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Modul 3</string>
+    <string name="satu">Satu</string>
+    <string name="dua">Dua</string>
+    <string name="tiga">Tiga</string>
+    <string name="empat">Empat</string>
+    <string name="selamat_datang_di_siamik_mobile">Selamat datang di Siamik Mobile</string>
+    <string name="tekan_tombol_login_untuk_masuk">Tekan Tombol Login Untuk Masuk</string>
+    <string name="login">Login</string>
+    <string name="contoh_linear_layout">Contoh Linear Layout</string>
+    <string name="selamat_datang_di_ilmu">Selamat Datang di Ilmu</string>
+    <string name="interactive_learning_management_of_upn_jatim">Interactive Learning Management of UPN jatim</string>
+    <string name="contoh_constraint_layout">Contoh Constraint Layout</string>
+    <string name="masukkan_nama_barang">Masukkan Nama Barang</string>
+    <string name="harga_barang">Harga Barang :</string>
+    <string name="input">Input</string>
+    <string name="jumlah_barang">Jumlah Barang :</string>
+    <string name="masukkan_harga_barang">Masukkan Harga Barang</string>
+    <string name="hapus">Hapus</string>
+    <string name="muhammad_yusuf_ardiansyah">Muhammad Yusuf Ardiansyah</string>
+    <string name="_18082010001">18082010001</string>
+    <string name="sistem_informasi_18_upn_veteran_jatim">Sistem Informasi \'18 UPN Veteran Jatim</string>
+    <string name="todo">TODO</string>
+    <string name="input_data_barang">Input Data Barang</string>
+    <string name="nama_barang">Nama Barang :</string>
+    <string name="masukkan_jumlah_barang">Masukkan Jumlah Barang</string>
+</resources>

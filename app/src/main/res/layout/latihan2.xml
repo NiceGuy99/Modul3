@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16pt"
+        android:layout_marginStart="16pt"
+        android:layout_marginTop="16pt"
+        android:layout_marginEnd="16pt"
+        android:text="@string/selamat_datang_di_siamik_mobile"
+        android:textAlignment="center"
+        android:textColor="@android:color/holo_green_dark"
+        android:textSize="14pt" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15pt"
+        android:text="@string/tekan_tombol_login_untuk_masuk"
+        android:textAlignment="center"
+        android:textSize="8pt"
+        tools:textStyle="italic" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="25pt"
+        android:layout_marginTop="55pt"
+        android:layout_marginRight="25pt"
+        android:text="@string/login"
+        android:textColorLink="#FFFFFF" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10pt"
+        android:text="@string/contoh_linear_layout"
+        android:textAlignment="center"
+        tools:textStyle="italic" />
+
+</LinearLayout>
